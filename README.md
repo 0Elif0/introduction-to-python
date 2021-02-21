@@ -2,6 +2,11 @@
   <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
 </div>
 
+Kurs tarihi: 19.02.2021
+Adı: Elif
+Soyadı: KOÇAK
+e-mail: elifkocak_58@outlook.com
+
 # Welcome to our Introduction to Python Programming Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
